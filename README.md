@@ -1,5 +1,6 @@
 # Loan-Prediction
 A practice Problem
+This is a practice problem in which 'how a machine learning problem can be solved in simple' is explained.
 
 Problem Statement:
 Predict Loan Eligibility for Dream Housing Finance company
